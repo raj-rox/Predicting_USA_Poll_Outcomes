@@ -1,0 +1,2 @@
+This is my attempt at solving the problem. I have implemented Logistic Regression, Decision Trees, Random Forest Algorithm 
+and Support Vector Classifier. If you want to increase the accuracy further then I would highly recommend using XGBoost.
